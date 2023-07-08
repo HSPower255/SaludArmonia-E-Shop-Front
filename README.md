@@ -1,4 +1,4 @@
-# [Cosmetic Products Store Project](https;//salud-armonia-e-shop-front.vercel.app)
+# [Cosmetic Products Store Project](https://salud-armonia-e-shop-front.vercel.app)
 
 The project has been created as part of a family project and is designed to be easily adaptable to different ventures.
 
@@ -20,7 +20,7 @@ The project has been created as part of a family project and is designed to be e
 - Project implemented using **Next.js**, a **React** framework for web applications.
 ----------------------------------------------------------------------------------------------------------------------------
 
-# [ Proyecto de Tienda de Productos Cosméticos](https;//salud-armonia-e-shop-front.vercel.app)
+# [ Proyecto de Tienda de Productos Cosméticos](https://salud-armonia-e-shop-front.vercel.app)
 
 El proyecto se ha creado como parte de un proyecto familiar y está diseñado para ser fácilmente adaptable a diferentes emprendimientos.
 
