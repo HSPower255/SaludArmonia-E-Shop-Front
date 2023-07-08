@@ -2,7 +2,7 @@
 
 The project has been created as part of a family project and is designed to be easily adaptable to different ventures.
 
-## Características principales
+## Key Features
 
 - Home page with a featured product and the latest products added to the store. ✅
 - Products tab with categories for easy navigation. ✅
