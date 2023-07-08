@@ -1,38 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Cosmetic Products Store Project
 
-## Getting Started
+The project has been created as part of a family project and is designed to be easily adaptable to different ventures.
 
-First, run the development server:
+## Características principales
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Home page with a featured product and the latest products added to the store. ✅
+- Products tab with categories for easy navigation. ✅
+- Shopping cart for users to select and purchase products. ✅
+- Product search functionality for quickly finding desired products. ✅
+- Fully responsive design for seamless experience across all devices. ✅
+- Dynamic connectivity with an admin panel for managing products. ✅
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Technology Stack Used
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Connection to a **MongoDB** database for storing product data.
+- Use of **Axios** for making data fetching requests to the database.
+- Store design implemented with **Styled Components**.
+- Project implemented using **Next.js**, a **React** framework for web applications.
+----------------------------------------------------------------------------------------------------------------------------
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Proyecto de Tienda de Productos Cosméticos 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+El proyecto se ha creado como parte de un proyecto familiar y está diseñado para ser fácilmente adaptable a diferentes emprendimientos.
 
-## Learn More
+## Características principales
 
-To learn more about Next.js, take a look at the following resources:
+- Página de inicio con un producto destacado y los últimos productos agregados a la tienda. ✅
+- Pestaña de productos con categorías para facilitar la navegación. ✅
+- Carrito de compras para que los usuarios puedan seleccionar y comprar productos. ✅
+- Buscador de productos para encontrar rápidamente los productos deseados. ✅
+- Diseño totalmente adaptable a todos los dispositivos. ✅
+- Conectividad dinámica con proyecto que el administrador usa para administrar los productos. ✅
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Stack teconológico usado
 
-## Deploy on Vercel
+- Conexión con base de datos **MongoDB** para almacenar los datos de los productos. 
+- Uso de **Axios** para realizar solicitudes de datos (fetching) a la base de datos.
+- Diseño de la tienda implementado con **Styled Components**.
+- Implementación del proyecto utilizando **Next.js**, framework de **React** para aplicaciones web.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
