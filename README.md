@@ -1,4 +1,4 @@
-# [Cosmetic Products Store Project](https://salud-armonia-e-shop-front.vercel.app)
+# 🇺🇸 [Cosmetic Products Store Project](https://salud-armonia-e-shop-front.vercel.app)
 
 The project has been created as part of a family project and is designed to be easily adaptable to different ventures.
 
@@ -11,16 +11,16 @@ The project has been created as part of a family project and is designed to be e
 - Fully responsive design for seamless experience across all devices. ✅
 - Dynamic connectivity with an [admin panel](https://github.com/HSPower255/E-Commerce-Admin-Panel) for managing products. ✅
 
-
 ## Technology Stack Used
 
 - Connection to a **MongoDB** database for storing product data.
 - Use of **Axios** for making data fetching requests to the database.
 - Store design implemented with **Styled Components**.
 - Project implemented using **Next.js**, a **React** framework for web applications.
+  
 ----------------------------------------------------------------------------------------------------------------------------
 
-# [ Proyecto de Tienda de Productos Cosméticos](https://salud-armonia-e-shop-front.vercel.app)
+# 🇪🇸 [ Proyecto de Tienda de Productos Cosméticos](https://salud-armonia-e-shop-front.vercel.app)
 
 El proyecto se ha creado como parte de un proyecto familiar y está diseñado para ser fácilmente adaptable a diferentes emprendimientos.
 
@@ -32,7 +32,6 @@ El proyecto se ha creado como parte de un proyecto familiar y está diseñado pa
 - Buscador de productos para encontrar rápidamente los productos deseados. ✅
 - Diseño totalmente adaptable a todos los dispositivos. ✅
 - Conectividad dinámica con [panel de administración](https://github.com/HSPower255/E-Commerce-Admin-Panel), que el administrador usa para administrar los productos. ✅
-
 
 ## Stack teconológico usado
 
